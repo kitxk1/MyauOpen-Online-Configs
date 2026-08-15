@@ -357,7 +357,7 @@
     "FontMode": "Minecraft"
   },
   "Eagle": {
-    "toggled": false,
+    "toggled": true,
     "key": 0,
     "hidden": false,
     "min-delay": 2,
@@ -586,14 +586,14 @@
   },
   "LagRange": {
     "toggled": true,
-    "key": 0,
+    "key": 19,
     "hidden": false,
-    "delay": 243,
-    "range": 38.45,
+    "delay": 435,
+    "range": 62.05,
     "weapons-only": true,
     "allow-tools": false,
     "bot-check": false,
-    "teams": true,
+    "teams": false,
     "show-position": "DEFAULT"
   },
   "KnockbackDelay": {
@@ -670,7 +670,7 @@
     "toggled": false,
     "key": 0,
     "hidden": false,
-    "Mode": "Boxing",
+    "Mode": "Sumo",
     "Auto-Requeue": true,
     "Requeue-Delay": 1500,
     "Paper-Requeue": true,
@@ -680,7 +680,7 @@
     "vertical-speed": 7.65,
     "Min-CPS": 12,
     "Max-CPS": 15,
-    "Sumo-AntiFall": false,
+    "Sumo-AntiFall": true,
     "Boxing-Fish": false,
     "Auto-Rod": true,
     "Auto-Pot": true,
